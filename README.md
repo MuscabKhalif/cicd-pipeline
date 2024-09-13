@@ -1,4 +1,4 @@
-                                                              CI/CD Pipeline Project
+                                                        CI/CD Pipeline Project
 Project Overview
 This project involved designing and implementing a Continuous Integration/Continuous Deployment (CI/CD) pipeline to automate the software development lifecycle. By leveraging modern CI/CD practices and tools, I streamlined the process of code integration, testing, and deployment, leading to faster and more reliable software delivery.
 
